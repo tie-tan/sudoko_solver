@@ -1,2 +1,2 @@
 # sudoko_solver
-algo to solve sudoko using backtracking 
+algo to solve sudoko using backtracking javascript HTML
