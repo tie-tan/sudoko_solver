@@ -1,2 +1,2 @@
-# soduko_solver
-algo to solve soduko using backtracking 
+# sudoko_solver
+algo to solve sudoko using backtracking 
